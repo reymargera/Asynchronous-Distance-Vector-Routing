@@ -9,4 +9,9 @@ In case of a link changing value (ie becomes trafficed) the nodes will update
 to reflect the change.
 
 The initial graph is below 
-![alt tag](https://raw.github.com/reymargera/Asynchronous-Distance-Vector-Routing/initialGraphImage.gif)
+
+
+
+
+
+![initialGraph](https://github.com/reymargera/Asynchronous-Distance-Vector-Routing/blob/master/initialGraphImage.gif)
